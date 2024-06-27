@@ -10,7 +10,11 @@ public class Gugudan {
 		}
 		
 		
+		System.out.println("작성자: 조무연");
 		
+		for (int i = 1; i <= 9; i++) {
+			System.out.println(3 + "*" + i + "=" + 3 * i);
+		}
 		
 		
 		

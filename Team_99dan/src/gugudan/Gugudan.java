@@ -17,7 +17,11 @@ public class Gugudan {
 		}
 		
 		
+		System.out.println("작성자: 이상현");
 		
+		for (int i = 1; i <= 9; i++) {
+			System.out.println(4 + "*" + i + "=" + 4 * i);
+		}
 		
 		
 		
